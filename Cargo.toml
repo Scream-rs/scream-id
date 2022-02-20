@@ -5,6 +5,7 @@ edition = "2021"
 license = "MIT"
 authors = ["Viggo Jonasson"]
 description = "A library used to handle Steam IDS."
+repository = "https://github.com/Scream-rs/scream-id"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
