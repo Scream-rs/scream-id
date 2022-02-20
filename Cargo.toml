@@ -1,0 +1,12 @@
+[package]
+name = "scream-id"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+authors = ["Viggo Jonasson"]
+description = "A library used to handle Steam IDS."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
